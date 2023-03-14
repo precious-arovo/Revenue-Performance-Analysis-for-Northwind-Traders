@@ -1,0 +1,268 @@
+﻿OrderID,OrderDate,CompanyName,ContactName,EmployeeID,EmployeeName
+10835,1998-01-15,Alfreds Futterkiste,Maria Anders,1,Nancy Davolio
+10952,1998-03-16,Alfreds Futterkiste,Maria Anders,1,Nancy Davolio
+11011,1998-04-09,Alfreds Futterkiste,Maria Anders,3,Janet Leverling
+10926,1998-03-04,Ana Trujillo Emparedados y helados,Ana Trujillo,4,Margaret Peacock
+10856,1998-01-28,Antonio Moreno Taquería,Antonio Moreno,3,Janet Leverling
+10864,1998-02-02,Around the Horn,Thomas Hardy,4,Margaret Peacock
+10953,1998-03-16,Around the Horn,Thomas Hardy,9,Anne Dodsworth
+10920,1998-03-03,Around the Horn,Thomas Hardy,4,Margaret Peacock
+11016,1998-04-10,Around the Horn,Thomas Hardy,9,Anne Dodsworth
+10924,1998-03-04,Berglunds snabbköp,Christina Berglund,3,Janet Leverling
+10875,1998-02-06,Berglunds snabbköp,Christina Berglund,4,Margaret Peacock
+10857,1998-01-28,Berglunds snabbköp,Christina Berglund,8,Laura Callahan
+10866,1998-02-03,Berglunds snabbköp,Christina Berglund,5,Steven Buchanan
+10837,1998-01-16,Berglunds snabbköp,Christina Berglund,9,Anne Dodsworth
+10853,1998-01-27,Blauer See Delikatessen,Hanna Moos,9,Anne Dodsworth
+10956,1998-03-17,Blauer See Delikatessen,Hanna Moos,6,Michael Suyama
+11058,1998-04-29,Blauer See Delikatessen,Hanna Moos,9,Anne Dodsworth
+10826,1998-01-12,Blondesddsl père et fils,Frédérique Citeaux,6,Michael Suyama
+10970,1998-03-24,Bólido Comidas preparadas,Martín Sommer,9,Anne Dodsworth
+11076,1998-05-06,Bon app',Laurence Lebihan,4,Margaret Peacock
+10827,1998-01-12,Bon app',Laurence Lebihan,1,Nancy Davolio
+10876,1998-02-09,Bon app',Laurence Lebihan,7,Robert King
+10871,1998-02-05,Bon app',Laurence Lebihan,9,Anne Dodsworth
+10940,1998-03-11,Bon app',Laurence Lebihan,8,Laura Callahan
+10932,1998-03-06,Bon app',Laurence Lebihan,8,Laura Callahan
+10944,1998-03-12,Bottom-Dollar Markets,Elizabeth Lincoln,6,Michael Suyama
+10949,1998-03-13,Bottom-Dollar Markets,Elizabeth Lincoln,2,Andrew Fuller
+10918,1998-03-02,Bottom-Dollar Markets,Elizabeth Lincoln,3,Janet Leverling
+11027,1998-04-16,Bottom-Dollar Markets,Elizabeth Lincoln,1,Nancy Davolio
+11045,1998-04-23,Bottom-Dollar Markets,Elizabeth Lincoln,6,Michael Suyama
+11048,1998-04-24,Bottom-Dollar Markets,Elizabeth Lincoln,7,Robert King
+10975,1998-03-25,Bottom-Dollar Markets,Elizabeth Lincoln,1,Nancy Davolio
+10982,1998-03-27,Bottom-Dollar Markets,Elizabeth Lincoln,2,Andrew Fuller
+11023,1998-04-14,B's Beverages,Victoria Ashworth,1,Nancy Davolio
+10943,1998-03-11,B's Beverages,Victoria Ashworth,4,Margaret Peacock
+10947,1998-03-13,B's Beverages,Victoria Ashworth,3,Janet Leverling
+10937,1998-03-10,Cactus Comidas para llevar,Patricio Simpson,7,Robert King
+10881,1998-02-11,Cactus Comidas para llevar,Patricio Simpson,4,Margaret Peacock
+10819,1998-01-07,Cactus Comidas para llevar,Patricio Simpson,2,Andrew Fuller
+11054,1998-04-28,Cactus Comidas para llevar,Patricio Simpson,8,Laura Callahan
+11041,1998-04-22,Chop-suey Chinese,Yang Wang,3,Janet Leverling
+11029,1998-04-16,Chop-suey Chinese,Yang Wang,4,Margaret Peacock
+10966,1998-03-20,Chop-suey Chinese,Yang Wang,4,Margaret Peacock
+10969,1998-03-23,Comércio Mineiro,Pedro Afonso,1,Nancy Davolio
+11042,1998-04-22,Comércio Mineiro,Pedro Afonso,2,Andrew Fuller
+10848,1998-01-23,Consolidated Holdings,Elizabeth Brown,7,Robert King
+11046,1998-04-23,Die Wandernde Kuh,Rita Müller,8,Laura Callahan
+11036,1998-04-20,Drachenblut Delikatessen,Sven Ottlieb,8,Laura Callahan
+11067,1998-05-04,Drachenblut Delikatessen,Sven Ottlieb,1,Nancy Davolio
+10825,1998-01-09,Drachenblut Delikatessen,Sven Ottlieb,1,Nancy Davolio
+10890,1998-02-16,Du monde entier,Janine Labrune,7,Robert King
+11047,1998-04-24,Eastern Connection,Ann Devon,7,Robert King
+11056,1998-04-28,Eastern Connection,Ann Devon,8,Laura Callahan
+10987,1998-03-31,Eastern Connection,Ann Devon,8,Laura Callahan
+11024,1998-04-15,Eastern Connection,Ann Devon,4,Margaret Peacock
+11017,1998-04-13,Ernst Handel,Roland Mendel,9,Anne Dodsworth
+11008,1998-04-08,Ernst Handel,Roland Mendel,7,Robert King
+10990,1998-04-01,Ernst Handel,Roland Mendel,2,Andrew Fuller
+10979,1998-03-26,Ernst Handel,Roland Mendel,8,Laura Callahan
+10968,1998-03-23,Ernst Handel,Roland Mendel,1,Nancy Davolio
+11072,1998-05-05,Ernst Handel,Roland Mendel,4,Margaret Peacock
+10895,1998-02-18,Ernst Handel,Roland Mendel,3,Janet Leverling
+10836,1998-01-16,Ernst Handel,Roland Mendel,7,Robert King
+10854,1998-01-27,Ernst Handel,Roland Mendel,3,Janet Leverling
+10880,1998-02-10,Folk och fä HB,Maria Larsson,7,Robert King
+10824,1998-01-09,Folk och fä HB,Maria Larsson,8,Laura Callahan
+10902,1998-02-23,Folk och fä HB,Maria Larsson,1,Nancy Davolio
+10955,1998-03-17,Folk och fä HB,Maria Larsson,8,Laura Callahan
+11050,1998-04-27,Folk och fä HB,Maria Larsson,8,Laura Callahan
+10980,1998-03-27,Folk och fä HB,Maria Larsson,4,Margaret Peacock
+10977,1998-03-26,Folk och fä HB,Maria Larsson,8,Laura Callahan
+10993,1998-04-01,Folk och fä HB,Maria Larsson,7,Robert King
+11001,1998-04-06,Folk och fä HB,Maria Larsson,2,Andrew Fuller
+10971,1998-03-24,France restauration,Carine Schmitt,2,Andrew Fuller
+10860,1998-01-29,France restauration,Carine Schmitt,3,Janet Leverling
+11026,1998-04-15,Franchi S.p.A.,Paolo Accorti,4,Margaret Peacock
+11060,1998-04-30,Franchi S.p.A.,Paolo Accorti,2,Andrew Fuller
+11012,1998-04-09,Frankenversand,Peter Franken,1,Nancy Davolio
+10859,1998-01-29,Frankenversand,Peter Franken,1,Nancy Davolio
+10929,1998-03-05,Frankenversand,Peter Franken,6,Michael Suyama
+10963,1998-03-19,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,9,Anne Dodsworth
+10928,1998-03-05,Galería del gastrónomo,Eduardo Saavedra,1,Nancy Davolio
+10887,1998-02-13,Galería del gastrónomo,Eduardo Saavedra,8,Laura Callahan
+10888,1998-02-16,Godos Cocina Típica,José Pedro Freyre,1,Nancy Davolio
+10911,1998-02-26,Godos Cocina Típica,José Pedro Freyre,3,Janet Leverling
+10948,1998-03-13,Godos Cocina Típica,José Pedro Freyre,3,Janet Leverling
+10872,1998-02-05,Godos Cocina Típica,José Pedro Freyre,5,Steven Buchanan
+10874,1998-02-06,Godos Cocina Típica,José Pedro Freyre,5,Steven Buchanan
+11009,1998-04-08,Godos Cocina Típica,José Pedro Freyre,2,Andrew Fuller
+11037,1998-04-21,Godos Cocina Típica,José Pedro Freyre,7,Robert King
+11049,1998-04-24,Gourmet Lanchonetes,André Fonseca,3,Janet Leverling
+10959,1998-03-18,Gourmet Lanchonetes,André Fonseca,6,Michael Suyama
+11006,1998-04-07,Great Lakes Food Market,Howard Snyder,3,Janet Leverling
+11061,1998-04-30,Great Lakes Food Market,Howard Snyder,4,Margaret Peacock
+11040,1998-04-22,Great Lakes Food Market,Howard Snyder,4,Margaret Peacock
+10816,1998-01-06,Great Lakes Food Market,Howard Snyder,4,Margaret Peacock
+10936,1998-03-09,Great Lakes Food Market,Howard Snyder,3,Janet Leverling
+10925,1998-03-04,Hanari Carnes,Mario Pontes,3,Janet Leverling
+10922,1998-03-03,Hanari Carnes,Mario Pontes,5,Steven Buchanan
+10903,1998-02-24,Hanari Carnes,Mario Pontes,3,Janet Leverling
+10886,1998-02-13,Hanari Carnes,Mario Pontes,1,Nancy Davolio
+11052,1998-04-27,Hanari Carnes,Mario Pontes,3,Janet Leverling
+11022,1998-04-14,Hanari Carnes,Mario Pontes,9,Anne Dodsworth
+10981,1998-03-27,Hanari Carnes,Mario Pontes,1,Nancy Davolio
+10960,1998-03-19,HILARION-Abastos,Carlos Hernández,3,Janet Leverling
+10976,1998-03-25,HILARION-Abastos,Carlos Hernández,1,Nancy Davolio
+11055,1998-04-28,HILARION-Abastos,Carlos Hernández,7,Robert King
+10901,1998-02-23,HILARION-Abastos,Carlos Hernández,4,Margaret Peacock
+10957,1998-03-18,HILARION-Abastos,Carlos Hernández,8,Laura Callahan
+10863,1998-02-02,HILARION-Abastos,Carlos Hernández,4,Margaret Peacock
+10897,1998-02-19,Hungry Owl All-Night Grocers,Patricia McKenna,3,Janet Leverling
+10912,1998-02-26,Hungry Owl All-Night Grocers,Patricia McKenna,2,Andrew Fuller
+11063,1998-04-30,Hungry Owl All-Night Grocers,Patricia McKenna,3,Janet Leverling
+10985,1998-03-30,Hungry Owl All-Night Grocers,Patricia McKenna,2,Andrew Fuller
+10933,1998-03-06,Island Trading,Helen Bennett,6,Michael Suyama
+10829,1998-01-13,Island Trading,Helen Bennett,9,Anne Dodsworth
+10817,1998-01-06,Königlich Essen,Philip Cramer,3,Janet Leverling
+10849,1998-01-23,Königlich Essen,Philip Cramer,9,Anne Dodsworth
+10893,1998-02-18,Königlich Essen,Philip Cramer,9,Anne Dodsworth
+11028,1998-04-16,Königlich Essen,Philip Cramer,2,Andrew Fuller
+10972,1998-03-24,La corne d'abondance,Daniel Tonini,4,Margaret Peacock
+10973,1998-03-24,La corne d'abondance,Daniel Tonini,6,Michael Suyama
+10927,1998-03-05,La corne d'abondance,Daniel Tonini,4,Margaret Peacock
+10858,1998-01-29,La corne d'abondance,Daniel Tonini,2,Andrew Fuller
+10832,1998-01-14,La maison d'Asie,Annette Roulet,2,Andrew Fuller
+10923,1998-03-03,La maison d'Asie,Annette Roulet,7,Robert King
+11051,1998-04-27,La maison d'Asie,Annette Roulet,7,Robert King
+11070,1998-05-05,Lehmanns Marktstand,Renate Messner,2,Andrew Fuller
+10891,1998-02-17,Lehmanns Marktstand,Renate Messner,7,Robert King
+10934,1998-03-09,Lehmanns Marktstand,Renate Messner,3,Janet Leverling
+10862,1998-01-30,Lehmanns Marktstand,Renate Messner,8,Laura Callahan
+10884,1998-02-12,Let's Stop N Shop,Jaime Yorres,4,Margaret Peacock
+10823,1998-01-09,LILA-Supermercado,Carlos González,5,Steven Buchanan
+10899,1998-02-20,LILA-Supermercado,Carlos González,5,Steven Buchanan
+11071,1998-05-05,LILA-Supermercado,Carlos González,1,Nancy Davolio
+11065,1998-05-01,LILA-Supermercado,Carlos González,8,Laura Callahan
+10997,1998-04-03,LILA-Supermercado,Carlos González,8,Laura Callahan
+11014,1998-04-10,LINO-Delicateses,Felipe Izquierdo,2,Andrew Fuller
+11039,1998-04-21,LINO-Delicateses,Felipe Izquierdo,1,Nancy Davolio
+10919,1998-03-02,LINO-Delicateses,Felipe Izquierdo,2,Andrew Fuller
+10954,1998-03-17,LINO-Delicateses,Felipe Izquierdo,5,Steven Buchanan
+10811,1998-01-02,LINO-Delicateses,Felipe Izquierdo,8,Laura Callahan
+10838,1998-01-19,LINO-Delicateses,Felipe Izquierdo,3,Janet Leverling
+10840,1998-01-19,LINO-Delicateses,Felipe Izquierdo,4,Margaret Peacock
+10883,1998-02-12,Lonesome Pine Restaurant,Fran Wilson,8,Laura Callahan
+10867,1998-02-03,Lonesome Pine Restaurant,Fran Wilson,6,Michael Suyama
+11018,1998-04-13,Lonesome Pine Restaurant,Fran Wilson,4,Margaret Peacock
+10818,1998-01-07,Magazzini Alimentari Riuniti,Giovanni Rovelli,7,Robert King
+10950,1998-03-16,Magazzini Alimentari Riuniti,Giovanni Rovelli,1,Nancy Davolio
+10939,1998-03-10,Magazzini Alimentari Riuniti,Giovanni Rovelli,2,Andrew Fuller
+10892,1998-02-17,Maison Dewey,Catherine Dewey,4,Margaret Peacock
+10896,1998-02-19,Maison Dewey,Catherine Dewey,7,Robert King
+11004,1998-04-07,Maison Dewey,Catherine Dewey,3,Janet Leverling
+10978,1998-03-26,Maison Dewey,Catherine Dewey,9,Anne Dodsworth
+10945,1998-03-12,Morgenstern Gesundkost,Alexander Feuer,4,Margaret Peacock
+11057,1998-04-29,North/South,Simon Crowther,3,Janet Leverling
+10986,1998-03-30,Océano Atlántico Ltda.,Yvonne Moncada,8,Laura Callahan
+10958,1998-03-18,Océano Atlántico Ltda.,Yvonne Moncada,7,Robert King
+10898,1998-02-20,Océano Atlántico Ltda.,Yvonne Moncada,4,Margaret Peacock
+10855,1998-01-27,Old World Delicatessen,Rene Phillips,3,Janet Leverling
+10965,1998-03-20,Old World Delicatessen,Rene Phillips,6,Michael Suyama
+11034,1998-04-20,Old World Delicatessen,Rene Phillips,8,Laura Callahan
+10999,1998-04-03,Ottilies Käseladen,Henriette Pfalzheim,6,Michael Suyama
+11020,1998-04-14,Ottilies Käseladen,Henriette Pfalzheim,2,Andrew Fuller
+10833,1998-01-15,Ottilies Käseladen,Henriette Pfalzheim,6,Michael Suyama
+10995,1998-04-02,Pericles Comidas clásicas,Guillermo Fernández,1,Nancy Davolio
+11073,1998-05-05,Pericles Comidas clásicas,Guillermo Fernández,2,Andrew Fuller
+11053,1998-04-27,Piccolo und mehr,Georg Pipps,2,Andrew Fuller
+10844,1998-01-21,Piccolo und mehr,Georg Pipps,8,Laura Callahan
+11007,1998-04-08,Princesa Isabel Vinhos,Isabel de Castro,8,Laura Callahan
+10989,1998-03-31,Que Delícia,Bernardo Batista,2,Andrew Fuller
+10961,1998-03-19,Queen Cozinha,Lúcia Carvalho,8,Laura Callahan
+11068,1998-05-04,Queen Cozinha,Lúcia Carvalho,8,Laura Callahan
+10868,1998-02-04,Queen Cozinha,Lúcia Carvalho,7,Robert King
+10913,1998-02-26,Queen Cozinha,Lúcia Carvalho,4,Margaret Peacock
+10914,1998-02-27,Queen Cozinha,Lúcia Carvalho,6,Michael Suyama
+10938,1998-03-10,QUICK-Stop,Horst Kloss,3,Janet Leverling
+10878,1998-02-10,QUICK-Stop,Horst Kloss,4,Margaret Peacock
+10865,1998-02-02,QUICK-Stop,Horst Kloss,2,Andrew Fuller
+10845,1998-01-21,QUICK-Stop,Horst Kloss,8,Laura Callahan
+10962,1998-03-19,QUICK-Stop,Horst Kloss,8,Laura Callahan
+10991,1998-04-01,QUICK-Stop,Horst Kloss,1,Nancy Davolio
+10996,1998-04-02,QUICK-Stop,Horst Kloss,4,Margaret Peacock
+11021,1998-04-14,QUICK-Stop,Horst Kloss,3,Janet Leverling
+11019,1998-04-13,Rancho grande,Sergio Gutiérrez,6,Michael Suyama
+10828,1998-01-13,Rancho grande,Sergio Gutiérrez,9,Anne Dodsworth
+10916,1998-02-27,Rancho grande,Sergio Gutiérrez,1,Nancy Davolio
+10889,1998-02-16,Rattlesnake Canyon Grocery,Paula Wilson,9,Anne Dodsworth
+10820,1998-01-07,Rattlesnake Canyon Grocery,Paula Wilson,3,Janet Leverling
+10852,1998-01-26,Rattlesnake Canyon Grocery,Paula Wilson,8,Laura Callahan
+11000,1998-04-06,Rattlesnake Canyon Grocery,Paula Wilson,2,Andrew Fuller
+10988,1998-03-31,Rattlesnake Canyon Grocery,Paula Wilson,3,Janet Leverling
+11077,1998-05-06,Rattlesnake Canyon Grocery,Paula Wilson,1,Nancy Davolio
+11062,1998-04-30,Reggiani Caseifici,Maurizio Moroni,4,Margaret Peacock
+11010,1998-04-09,Reggiani Caseifici,Maurizio Moroni,2,Andrew Fuller
+10812,1998-01-02,Reggiani Caseifici,Maurizio Moroni,5,Steven Buchanan
+10908,1998-02-26,Reggiani Caseifici,Maurizio Moroni,4,Margaret Peacock
+10942,1998-03-11,Reggiani Caseifici,Maurizio Moroni,9,Anne Dodsworth
+10813,1998-01-05,Ricardo Adocicados,Janete Limeira,1,Nancy Davolio
+10851,1998-01-26,Ricardo Adocicados,Janete Limeira,5,Steven Buchanan
+10877,1998-02-09,Ricardo Adocicados,Janete Limeira,1,Nancy Davolio
+11059,1998-04-29,Ricardo Adocicados,Janete Limeira,2,Andrew Fuller
+11033,1998-04-17,Richter Supermarkt,Michael Holz,7,Robert King
+11075,1998-05-06,Richter Supermarkt,Michael Holz,8,Laura Callahan
+10951,1998-03-16,Richter Supermarkt,Michael Holz,9,Anne Dodsworth
+10931,1998-03-06,Richter Supermarkt,Michael Holz,4,Margaret Peacock
+10917,1998-03-02,Romero y tomillo,Alejandra Camino,4,Margaret Peacock
+11013,1998-04-09,Romero y tomillo,Alejandra Camino,2,Andrew Fuller
+11015,1998-04-10,Santé Gourmet,Jonas Bergulfsen,2,Andrew Fuller
+10909,1998-02-26,Santé Gourmet,Jonas Bergulfsen,1,Nancy Davolio
+10831,1998-01-14,Santé Gourmet,Jonas Bergulfsen,3,Janet Leverling
+10847,1998-01-22,Save-a-lot Markets,Jose Pavarotti,4,Margaret Peacock
+10815,1998-01-05,Save-a-lot Markets,Jose Pavarotti,2,Andrew Fuller
+10882,1998-02-11,Save-a-lot Markets,Jose Pavarotti,4,Margaret Peacock
+10894,1998-02-18,Save-a-lot Markets,Jose Pavarotti,1,Nancy Davolio
+10941,1998-03-11,Save-a-lot Markets,Jose Pavarotti,7,Robert King
+11030,1998-04-17,Save-a-lot Markets,Jose Pavarotti,7,Robert King
+11031,1998-04-17,Save-a-lot Markets,Jose Pavarotti,6,Michael Suyama
+11002,1998-04-06,Save-a-lot Markets,Jose Pavarotti,4,Margaret Peacock
+10983,1998-03-27,Save-a-lot Markets,Jose Pavarotti,2,Andrew Fuller
+10984,1998-03-30,Save-a-lot Markets,Jose Pavarotti,1,Nancy Davolio
+11064,1998-05-01,Save-a-lot Markets,Jose Pavarotti,1,Nancy Davolio
+10869,1998-02-04,Seven Seas Imports,Hari Kumar,5,Steven Buchanan
+11074,1998-05-06,Simons bistro,Jytte Petersen,7,Robert King
+11043,1998-04-22,Spécialités du monde,Dominique Perrier,5,Steven Buchanan
+10964,1998-03-20,Spécialités du monde,Dominique Perrier,3,Janet Leverling
+10907,1998-02-25,Spécialités du monde,Dominique Perrier,6,Michael Suyama
+10821,1998-01-08,Split Rail Beer & Ale,Art Braunschweiger,1,Nancy Davolio
+10974,1998-03-25,Split Rail Beer & Ale,Art Braunschweiger,3,Janet Leverling
+11038,1998-04-21,Suprêmes délices,Pascale Cartrain,1,Nancy Davolio
+11035,1998-04-20,Suprêmes délices,Pascale Cartrain,2,Andrew Fuller
+10846,1998-01-22,Suprêmes délices,Pascale Cartrain,2,Andrew Fuller
+10841,1998-01-20,Suprêmes délices,Pascale Cartrain,5,Steven Buchanan
+10885,1998-02-12,Suprêmes délices,Pascale Cartrain,6,Michael Suyama
+10930,1998-03-06,Suprêmes délices,Pascale Cartrain,4,Margaret Peacock
+10992,1998-04-01,The Big Cheese,Liz Nixon,1,Nancy Davolio
+11003,1998-04-06,The Cracker Box,Liu Wong,3,Janet Leverling
+10967,1998-03-23,Toms Spezialitäten,Karin Josephs,2,Andrew Fuller
+11069,1998-05-04,Tortuga Restaurante,Miguel Angel Paolino,1,Nancy Davolio
+10915,1998-02-27,Tortuga Restaurante,Miguel Angel Paolino,2,Andrew Fuller
+10842,1998-01-20,Tortuga Restaurante,Miguel Angel Paolino,1,Nancy Davolio
+10834,1998-01-15,Tradição Hipermercados,Anabela Domingues,1,Nancy Davolio
+10830,1998-01-13,Tradição Hipermercados,Anabela Domingues,4,Margaret Peacock
+10839,1998-01-19,Tradição Hipermercados,Anabela Domingues,3,Janet Leverling
+10822,1998-01-08,Trail's Head Gourmet Provisioners,Helvetius Nagy,6,Michael Suyama
+10921,1998-03-03,Vaffeljernet,Palle Ibsen,1,Nancy Davolio
+10946,1998-03-12,Vaffeljernet,Palle Ibsen,1,Nancy Davolio
+10994,1998-04-02,Vaffeljernet,Palle Ibsen,2,Andrew Fuller
+10814,1998-01-05,Victuailles en stock,Mary Saveley,3,Janet Leverling
+10843,1998-01-21,Victuailles en stock,Mary Saveley,4,Margaret Peacock
+10850,1998-01-23,Victuailles en stock,Mary Saveley,1,Nancy Davolio
+11025,1998-04-15,Wartian Herkku,Pirkko Koskitalo,6,Michael Suyama
+10935,1998-03-09,Wellington Importadora,Paula Parente,4,Margaret Peacock
+10905,1998-02-24,Wellington Importadora,Paula Parente,9,Anne Dodsworth
+10900,1998-02-20,Wellington Importadora,Paula Parente,1,Nancy Davolio
+10904,1998-02-24,White Clover Markets,Karl Jablonski,3,Janet Leverling
+10861,1998-01-30,White Clover Markets,Karl Jablonski,4,Margaret Peacock
+11032,1998-04-17,White Clover Markets,Karl Jablonski,2,Andrew Fuller
+11066,1998-05-01,White Clover Markets,Karl Jablonski,7,Robert King
+11005,1998-04-07,Wilman Kala,Matti Karttunen,2,Andrew Fuller
+10879,1998-02-10,Wilman Kala,Matti Karttunen,3,Janet Leverling
+10873,1998-02-06,Wilman Kala,Matti Karttunen,4,Margaret Peacock
+10910,1998-02-26,Wilman Kala,Matti Karttunen,1,Nancy Davolio
+10906,1998-02-25,Wolski  Zajazd,Zbyszek Piestrzeniewicz,4,Margaret Peacock
+10870,1998-02-04,Wolski  Zajazd,Zbyszek Piestrzeniewicz,5,Steven Buchanan
+10998,1998-04-03,Wolski  Zajazd,Zbyszek Piestrzeniewicz,8,Laura Callahan
+11044,1998-04-23,Wolski  Zajazd,Zbyszek Piestrzeniewicz,4,Margaret Peacock
