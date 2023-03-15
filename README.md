@@ -1,4 +1,5 @@
 # Analysis-for-Northwind-Traders
+## Unfinished...........
 Sales analysis and sales data visualization for Northwind Traders database
 
 ## Objectives
