@@ -1,12 +1,14 @@
 # Analysis and Data Visualization for Northwind Traders
 
 ### Objective
-The objective of this project is to create an interactive executive  dashboard for Northwind traders, a fictitious food import-export company; after querying its database to extract relevant data features sufficient to create the executive dashboard which would show visuals for the following:
+The objective of this project is to create an interactive executive  dashboard for Northwind Traders, a fictitious food import-export company; by querying its database which is also readily available and widely used by Microsoft to demonstrate the use of some of its packages such as Microsoft SQL Server management studio and Microsoft Access; to extract relevant data features sufficient to create the executive dashboard which would show visuals for the following:
 > 1. The revenue distribution for the years of the business operation.
 > 2. The revenue share by the countries where the business is operational.
 > 3. Revenue share by the company’s sales representatives.
 > 4. The top (10) products by revenue.
 > 5. The product category revenue share.
+
+It is noteworthy to mention that in an effort to showcase my proficiency with SQL, in this project, I perfomed exploratory analysis on the same Northwind Traders Database using SQL Queries on Microsoft SQL Server Management Studio by answering a set of analysis questions originally set by the University of Ferrara, Italy, for analysis exercise on the Northwind Traders Database. Further information about this, including the questions, the SQL solution script and the solution files can be access here https://github.com/arovo-ds/Analysis-for-Northwind-Traders/tree/main/SQL%20query%20exercise%20and%20solutions.
 
 ### Methodology and Project Workflow
 In order to successfully create the interactive executive dashboard for Northwind Traders, I went through the following process:
