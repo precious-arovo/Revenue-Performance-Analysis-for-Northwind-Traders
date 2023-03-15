@@ -23,4 +23,4 @@ The resulting .csv dataset created can also be viewed through: https://github.co
 Below is a cop of the created Northwind Traders Interactive Executive Dashboard, which can also be viewed on Tableau Public via: https://public.tableau.com/app/profile/precious.arovo/viz/NorthwindSalesVisualization/Dashboard1
 ![Northwind Traders Executive Dashboard (Tableau)](https://user-images.githubusercontent.com/90056014/225315489-85565177-ccad-4abd-9511-91eda717d5f3.png)
 
-The resulting .twbx tableau file can be accessed in its interactive mode via: https://github.com/arovo-ds/Analysis-for-Northwind-Traders/blob/main/Northwind%20Traders%20Interactive%20Executive%20Dashboard/Northwind%20Traders%20Interactive%20Executive%20Dashboard.twbx
+The resulting dashboard can be accessed in its interactive mode only using a Tableau package. The .twbx tableau file can be downloaded via: https://github.com/arovo-ds/Analysis-for-Northwind-Traders/blob/main/Northwind%20Traders%20Interactive%20Executive%20Dashboard/Northwind%20Traders%20Interactive%20Executive%20Dashboard.twbx
