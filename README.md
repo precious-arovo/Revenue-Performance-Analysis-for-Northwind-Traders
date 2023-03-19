@@ -1,7 +1,7 @@
-# Analysis and Data Visualization for Northwind Traders
+# Revenue Performance Analysis and Data Visualization for Northwind Traders
 
 ### Objective
-The objective of this project is to create an interactive executive  dashboard for Northwind Traders, a fictitious food import-export company; by querying its database which is also readily available and widely used by Microsoft to demonstrate the use of some of its packages such as Microsoft SQL Server management studio and Microsoft Access; to extract relevant data features sufficient to create the executive dashboard which would show visuals for the following:
+The objective of this project is to create an interactive Revenue Performance dashboard for Northwind Traders, a fictitious food import-export company; by querying its database which is also readily available and widely used by Microsoft to demonstrate the use of some of its packages such as Microsoft SQL Server management studio and Microsoft Access; to extract relevant data features sufficient to create the intended dashboard which would show visuals for the following:
 > 1. The revenue distribution for the years of the business operation.
 > 2. The revenue share by the countries where the business is operational.
 > 3. Revenue share by the company’s sales representatives.
