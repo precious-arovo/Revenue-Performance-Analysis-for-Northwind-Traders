@@ -8,7 +8,7 @@ The objective of this project is to create an interactive Revenue Performance da
 > 4. The top (10) products by revenue.
 > 5. The product category revenue share.
 
-It is noteworthy to mention that in an effort to showcase my proficiency with SQL, in this project, I perfomed exploratory analysis on the same Northwind Traders Database using SQL Queries on Microsoft SQL Server Management Studio by answering a few of a set of analysis questions originally set by the University of Ferrara, Italy, for analysis exercise on the Northwind Traders Database. Further information about this, including the questions, the SQL solution script and the solution files can be access here https://github.com/arovo-ds/Analysis-for-Northwind-Traders/tree/main/SQL%20query%20exercise%20and%20solutions.
+It is noteworthy to mention that in an effort to showcase my proficiency with SQL, in this project, I perfomed exploratory analysis on the same Northwind Traders Database using SQL Queries on Microsoft SQL Server Management Studio by answering a few of a set of analysis questions originally set by the University of Ferrara, Italy, for analysis exercise on the Northwind Traders Database. Further information about this, including the questions, the SQL solution script and the solution files can be access here [https://github.com/arovo-ds/Analysis-for-Northwind-Traders/tree/main/SQL%20query%20exercise%20and%20solutions](link).
 
 ### Methodology and Project Workflow
 In order to successfully create the interactive revenue performance dashboard for Northwind Traders, I went through the following process:
