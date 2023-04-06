@@ -8,11 +8,11 @@ The objective of this project is to create an interactive Revenue Performance da
 > 4. The top (10) products by revenue.
 > 5. The product category revenue share.
 
-It is noteworthy to mention that in an effort to showcase my proficiency with SQL, in this project, I perfomed exploratory analysis on the same Northwind Traders Database using SQL Queries on Microsoft SQL Server Management Studio by answering a few of a set of analysis questions originally set by the University of Ferrara, Italy, for analysis exercise on the Northwind Traders Database. Further information about this, including the questions, the SQL solution script and the solution files can be access here [https://github.com/arovo-ds/Analysis-for-Northwind-Traders/tree/main/SQL%20query%20exercise%20and%20solutions](link).
+It is noteworthy to mention that in an effort to showcase my proficiency with SQL, in this project, I perfomed exploratory analysis on the same Northwind Traders Database using SQL Queries on Microsoft SQL Server Management Studio by answering a few of a set of analysis questions originally set by the University of Ferrara, Italy, for analysis exercise on the Northwind Traders Database. Further information about this, including the questions, the SQL solution script and the solution files can be accessed [here](https://github.com/arovo-ds/Analysis-for-Northwind-Traders/tree/main/SQL%20query%20exercise%20and%20solutions).
 
 ### Methodology and Project Workflow
 In order to successfully create the interactive revenue performance dashboard for Northwind Traders, I went through the following process:
-> -	I obtained the readily available Northwind Traders database .bak file using the link below: https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
+> -	I obtained the readily available Northwind Traders database .bak file from [Northwind and pubs sample databases for Microsoft SQL Server](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs).
 > - Ran SQL query on Microsoft SQL Server Management Studio to extract the necessary data features required to make up the dataset sufficient to produce the right visuals to answer the five executive questions outlined in the objective section of this readme.md file.
 Below is the database diagram for Northwind Traders showing the various tables in the database:
 ![image](https://user-images.githubusercontent.com/90056014/224892945-729e76fd-8c8d-4404-bc35-9159d8e37ed5.png)
